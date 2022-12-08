@@ -1,0 +1,55 @@
+{
+  "backend": "http://localhost:8000",
+  "data": [
+    {
+      "id": 1,
+      "name": "Shaylynn",
+      "age": 47
+    },
+    {
+      "id": 2,
+      "name": "Emmery",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "Tallie",
+      "age": 81
+    },
+    {
+      "id": 4,
+      "name": "Jefferey",
+      "age": 40
+    },
+    {
+      "id": 5,
+      "name": "Cleve",
+      "age": 28
+    },
+    {
+      "id": 6,
+      "name": "Sammy",
+      "age": 77
+    },
+    {
+      "id": 7,
+      "name": "Morgen",
+      "age": 39
+    },
+    {
+      "id": 8,
+      "name": "Moise",
+      "age": 53
+    },
+    {
+      "id": 9,
+      "name": "Evangelina",
+      "age": 90
+    },
+    {
+      "id": 10,
+      "name": "Carolann",
+      "age": 86
+    }
+  ]
+}
