@@ -1,2 +1,0 @@
-# FullStack-Person-App
-
