@@ -21,7 +21,7 @@
     <p>Frontend Server: </p>
     <ul>
       <li>host: localhost</li>
-      <li>port: 8080</li>
+      <li>port: 3000</li>
     </ul>
     <h1>Backend</h1>
     <p>To Run the Backend: </p>
