@@ -11,6 +11,7 @@
       <li>NodeJS</li>
       <li>Java</li>
       <li>MySQL</li>
+      <li>Meaven</li>
     </ul>
     <h1>Frontend</h1>
     <p>To Run the Frontend: </p>
@@ -27,6 +28,8 @@
     <p>To Run the Backend: </p>
     <ul>
       <li>cd backend</li>
+      <li>change database information at backend/src/main/resources/application.yaml</li>
+      <li>mvn clean install</li>
       <li>java -jar target/backend-1.0.0.jar</li>
     </ul>
     <p>Backend Server: </p>
