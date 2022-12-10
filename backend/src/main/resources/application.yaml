@@ -8,6 +8,6 @@ spring:
     show-sql: true
   datasource:
     url: jdbc:mysql://localhost:3306/fullstackpersondb
-    username: tahsin
-    password: skyout123
+    username: root
+    password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
