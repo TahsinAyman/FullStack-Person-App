@@ -1,0 +1,13 @@
+server:
+  address: 0.0.0.0
+  port: 8000
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://sql615.main-hosting.eu:3306/u835893703_tahsin
+    username: u835893703_tahsin
+    password: TahsinAyman001
+    driver-class-name: com.mysql.cj.jdbc.Driver
